@@ -17,7 +17,7 @@
    return 0;
  }
 
-// Uestion 2: Find whether the inputted character is a vowel or not.
+// Question 2: Find whether the inputted character is a vowel or not.
 
 #include <stdio.h>
 
@@ -39,7 +39,7 @@ int main()
     return 0;
 }
 
-// Uestion 3: Find whether the inputted character is a vowel or Consonant befor you have to check it's a latter.
+// Qestion 3: Find whether the inputted character is a vowel or Consonant befor you have to check it's a latter.
 
 #include <stdio.h>
 
