@@ -14,7 +14,7 @@ scanf("%d", &pen);
 total_cost=((pen*pen_price)+(notebook*notebook_price));
 payable_cost=  total_cost-((discount_amount/100.0)*total_cost);
 printf("Your total cost %d", total_cost);
-printf("You have to pay %.2f %f", payable_cost);
+printf("You have to pay %.2f", payable_cost);
 
 return 0;
 }
